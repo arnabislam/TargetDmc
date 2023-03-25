@@ -1,0 +1,1 @@
+export 'package:dmc/presentation/data/data.screen.dart';
